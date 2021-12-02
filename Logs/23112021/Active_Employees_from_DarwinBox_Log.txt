@@ -1,0 +1,9 @@
+2021-11-23 12:34:38 Info: Script Execution Logs Start
+
+2021-11-23 12:34:38 Info: ****************************************************************************************************
+2021-11-23 12:34:38 Info: Getting active Employees from DarwinBox ...
+2021-11-23 12:35:07 Warn: No users found in the list of Active DarwinBox Employees.
+2021-11-23 12:35:07 Info: ****************************************************************************************************
+2021-11-23 12:35:07 Info: Script Execution Logs End 
+
+

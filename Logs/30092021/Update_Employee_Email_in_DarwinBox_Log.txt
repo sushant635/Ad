@@ -1,0 +1,40 @@
+2021-09-30 10:00:22 Info: Script Execution Logs Start
+
+2021-09-30 10:00:22 Info: ****************************************************************************************************
+2021-09-30 10:00:22 Info: Validating module dependencies for the script...
+2021-09-30 10:00:24 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-30 10:00:24 Info: ---------------------------------------------------------------------------
+
+2021-09-30 10:00:24 Info: Connecting to Azure AD ...
+2021-09-30 10:00:28 Info: Connection successful.
+2021-09-30 10:00:28 Info: ---------------------------------------------------------------------------
+2021-09-30 10:00:28 Error: Users Monitoring Output CSV file NOT FOUND.
+2021-09-30 10:00:28 Info: ****************************************************************************************************
+2021-09-30 10:00:28 Info: Script Execution Logs End 
+
+
+2021-09-30 12:02:33 Info: Script Execution Logs Start
+
+2021-09-30 12:02:33 Info: ****************************************************************************************************
+2021-09-30 12:02:33 Info: Validating module dependencies for the script...
+2021-09-30 12:02:33 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-30 12:02:33 Info: ---------------------------------------------------------------------------
+
+2021-09-30 12:02:33 Info: Connecting to Azure AD ...
+2021-09-30 12:02:34 Info: Connection successful.
+2021-09-30 12:02:34 Info: ---------------------------------------------------------------------------
+2021-09-30 12:02:34 Info: Reading data from Users Monitoring output CSV file
+2021-09-30 12:02:34 Info: Reading Domain and Company info from CSV file
+2021-09-30 12:02:34 Info: =======================================================================================
+2021-09-30 12:02:34 Info: Determining the domain type from the group company name
+2021-09-30 12:02:34 Info: Domain Type - ADFS
+2021-09-30 12:02:34 Info: Checking if the user exists in ADFS or not
+2021-09-30 12:02:34 Info: User with DarwinBox unique user Id set to 114358 already exists
+2021-09-30 12:02:35 Info: Mail address has been updated in DarwinBox for the user with unique ID 114358
+2021-09-30 12:02:35 Info: =======================================================================================
+2021-09-30 12:02:35 Info: Exporting the results to CSV files
+2021-09-30 12:02:35 Info: Export successful
+2021-09-30 12:02:35 Info: ****************************************************************************************************
+2021-09-30 12:02:35 Info: Script Execution Logs End 
+
+

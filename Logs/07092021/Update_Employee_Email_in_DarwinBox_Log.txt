@@ -1,0 +1,105 @@
+2021-09-07 14:39:02 Info: Script Execution Logs Start
+
+2021-09-07 14:39:02 Info: ****************************************************************************************************
+2021-09-07 14:39:02 Info: Validating module dependencies for the script...
+2021-09-07 14:39:02 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-07 14:39:02 Info: ---------------------------------------------------------------------------
+
+2021-09-07 14:39:02 Info: Connecting to Azure AD ...
+2021-09-07 14:39:02 Info: Connection successful.
+2021-09-07 14:39:02 Info: ---------------------------------------------------------------------------
+2021-09-07 14:39:02 Info: Reading data from Users Monitoring output CSV file
+2021-09-07 14:39:02 Info: Reading Domain and Company info from CSV file
+2021-09-07 14:39:02 Info: =======================================================================================
+2021-09-07 14:39:02 Info: Determining the domain type from the group company name
+2021-09-07 14:39:02 Info: Domain Type - AzureAD
+2021-09-07 14:39:02 Info: Checking if the user exists in Azure AD or not
+2021-09-07 14:39:07 Info: User with DarwinBox unique user Id set to 75418 already exists
+2021-09-07 14:39:07 Info: Mail Attribute is NULL in Azure AD for the user with unique ID 75418
+2021-09-07 14:39:07 Info: =======================================================================================
+2021-09-07 14:39:07 Info: Exporting the results to CSV files
+2021-09-07 14:39:07 Info: Export successful
+2021-09-07 14:39:07 Info: ****************************************************************************************************
+2021-09-07 14:39:07 Info: Script Execution Logs End 
+
+
+2021-09-07 14:47:10 Info: Script Execution Logs Start
+
+2021-09-07 14:47:10 Info: ****************************************************************************************************
+2021-09-07 14:47:10 Info: Validating module dependencies for the script...
+2021-09-07 14:47:10 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-07 14:47:10 Info: ---------------------------------------------------------------------------
+
+2021-09-07 14:47:10 Info: Connecting to Azure AD ...
+2021-09-07 14:47:10 Info: Connection successful.
+2021-09-07 14:47:10 Info: ---------------------------------------------------------------------------
+2021-09-07 14:47:10 Info: Reading data from Users Monitoring output CSV file
+2021-09-07 14:47:10 Info: Reading Domain and Company info from CSV file
+2021-09-07 14:47:10 Info: =======================================================================================
+2021-09-07 14:47:10 Info: Determining the domain type from the group company name
+2021-09-07 14:47:10 Info: Domain Type - AzureAD
+2021-09-07 14:47:10 Info: Checking if the user exists in Azure AD or not
+2021-09-07 14:47:14 Info: User with DarwinBox unique user Id set to 75418 already exists
+2021-09-07 14:47:15 Info: Mail address has been updated in DarwinBox for the Azure AD user with unique ID 75418
+2021-09-07 14:47:15 Info: =======================================================================================
+2021-09-07 14:47:15 Info: Exporting the results to CSV files
+2021-09-07 14:47:15 Info: Export successful
+2021-09-07 14:47:15 Info: ****************************************************************************************************
+2021-09-07 14:47:15 Info: Script Execution Logs End 
+
+
+2021-09-07 15:02:21 Info: Script Execution Logs Start
+
+2021-09-07 15:02:21 Info: ****************************************************************************************************
+2021-09-07 15:02:21 Info: Validating module dependencies for the script...
+2021-09-07 15:02:21 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-07 15:02:21 Info: ---------------------------------------------------------------------------
+
+2021-09-07 15:02:21 Info: Connecting to Azure AD ...
+2021-09-07 15:02:21 Info: Connection successful.
+2021-09-07 15:02:21 Info: ---------------------------------------------------------------------------
+2021-09-07 15:02:21 Info: Reading data from Users Monitoring output CSV file
+2021-09-07 15:02:21 Info: Reading Domain and Company info from CSV file
+2021-09-07 15:02:21 Info: =======================================================================================
+2021-09-07 15:02:21 Info: Determining the domain type from the group company name
+2021-09-07 15:02:21 Info: Domain Type - ADFS
+2021-09-07 15:02:21 Info: Checking if the user exists in ADFS or not
+2021-09-07 15:02:21 Info: User with DarwinBox unique user Id set to 75418 already exists
+2021-09-07 15:02:21 Info: Error while updating DarwinBox employee with unique user Id - 75418 
+ Error Message : 
+{"status":0,"message":"Email is not a valid email address."}
+2021-09-07 15:02:21 Info: Email Update operation failed for the ADFS user with unique ID 75418 with the ERROR message - 2021-09-07 15:02:21 Info: Error while updating DarwinBox employee with unique user Id - 75418 
+ Error Message : 
+{"status":0,"message":"Email is not a valid email address."}
+2021-09-07 15:02:21 Info: =======================================================================================
+2021-09-07 15:02:21 Info: Exporting the results to CSV files
+2021-09-07 15:02:21 Info: Export successful
+2021-09-07 15:02:21 Info: ****************************************************************************************************
+2021-09-07 15:02:21 Info: Script Execution Logs End 
+
+
+2021-09-07 15:08:29 Info: Script Execution Logs Start
+
+2021-09-07 15:08:29 Info: ****************************************************************************************************
+2021-09-07 15:08:29 Info: Validating module dependencies for the script...
+2021-09-07 15:08:29 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-07 15:08:29 Info: ---------------------------------------------------------------------------
+
+2021-09-07 15:08:29 Info: Connecting to Azure AD ...
+2021-09-07 15:08:29 Info: Connection successful.
+2021-09-07 15:08:29 Info: ---------------------------------------------------------------------------
+2021-09-07 15:08:29 Info: Reading data from Users Monitoring output CSV file
+2021-09-07 15:08:29 Info: Reading Domain and Company info from CSV file
+2021-09-07 15:08:29 Info: =======================================================================================
+2021-09-07 15:08:29 Info: Determining the domain type from the group company name
+2021-09-07 15:08:29 Info: Domain Type - ADFS
+2021-09-07 15:08:29 Info: Checking if the user exists in ADFS or not
+2021-09-07 15:08:29 Info: User with DarwinBox unique user Id set to 75418 already exists
+2021-09-07 15:08:30 Info: Mail address has been updated in DarwinBox for the user with unique ID 75418
+2021-09-07 15:08:30 Info: =======================================================================================
+2021-09-07 15:08:30 Info: Exporting the results to CSV files
+2021-09-07 15:08:30 Info: Export successful
+2021-09-07 15:08:30 Info: ****************************************************************************************************
+2021-09-07 15:08:30 Info: Script Execution Logs End 
+
+

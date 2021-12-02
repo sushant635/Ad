@@ -1,0 +1,180 @@
+2021-11-11 19:45:31 Info: Script Execution Logs Start
+
+2021-11-11 19:45:31 Info: ****************************************************************************************************
+2021-11-11 19:45:31 Info: Validating module dependencies for the script...
+2021-11-11 19:45:31 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 19:45:31 Info: ---------------------------------------------------------------------------
+
+2021-11-11 19:45:31 Info: Connecting to Azure AD ...
+2021-11-11 19:45:31 Info: Connection successful.
+2021-11-11 19:45:31 Info: ---------------------------------------------------------------------------
+2021-11-11 19:45:31 Info: Reading data from Users Monitoring output CSV file
+2021-11-11 19:45:31 Info: Reading Domain and Company info from CSV file
+2021-11-11 19:45:31 Info: =======================================================================================
+2021-11-11 19:45:31 Info: Determining the domain type from the group company name
+2021-11-11 19:45:31 Info: Domain Type - ADFS
+2021-11-11 19:45:31 Info: Checking if the user exists in ADFS or not
+2021-11-11 19:45:31 Info: User with DarwinBox unique user Id set to 141309 already exists
+2021-11-11 19:45:32 Info: Mail address has been updated in DarwinBox for the user with unique ID 141309
+2021-11-11 19:45:32 Info: =======================================================================================
+2021-11-11 19:45:32 Info: Exporting the results to CSV files
+2021-11-11 19:45:32 Info: Export successful
+2021-11-11 19:45:32 Info: ****************************************************************************************************
+2021-11-11 19:45:32 Info: Script Execution Logs End 
+
+
+2021-11-11 19:46:07 Info: Script Execution Logs Start
+
+2021-11-11 19:46:07 Info: ****************************************************************************************************
+2021-11-11 19:46:07 Info: Validating module dependencies for the script...
+2021-11-11 19:46:07 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 19:46:07 Info: ---------------------------------------------------------------------------
+
+2021-11-11 19:46:07 Info: Connecting to Azure AD ...
+2021-11-11 19:46:07 Info: Connection successful.
+2021-11-11 19:46:07 Info: ---------------------------------------------------------------------------
+2021-11-11 19:46:07 Info: Reading data from Users Monitoring output CSV file
+2021-11-11 19:46:07 Info: Reading Domain and Company info from CSV file
+2021-11-11 19:46:07 Info: =======================================================================================
+2021-11-11 19:46:07 Info: Determining the domain type from the group company name
+2021-11-11 19:46:07 Info: Domain Type - ADFS
+2021-11-11 19:46:07 Info: Checking if the user exists in ADFS or not
+2021-11-11 19:46:07 Info: User with DarwinBox unique user Id set to 141309 already exists
+2021-11-11 19:46:07 Info: Mail address has been updated in DarwinBox for the user with unique ID 141309
+2021-11-11 19:46:07 Info: =======================================================================================
+2021-11-11 19:46:07 Info: Exporting the results to CSV files
+2021-11-11 19:46:07 Info: Export successful
+2021-11-11 19:46:07 Info: ****************************************************************************************************
+2021-11-11 19:46:07 Info: Script Execution Logs End 
+
+
+2021-11-11 20:43:12 Info: Script Execution Logs Start
+
+2021-11-11 20:43:12 Info: ****************************************************************************************************
+2021-11-11 20:43:12 Info: Validating module dependencies for the script...
+2021-11-11 20:43:14 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 20:43:14 Info: ---------------------------------------------------------------------------
+
+2021-11-11 20:43:14 Info: Connecting to Azure AD ...
+2021-11-11 20:43:15 Info: Connection successful.
+2021-11-11 20:43:15 Info: ---------------------------------------------------------------------------
+2021-11-11 20:43:15 Error: Users Monitoring Output CSV file NOT FOUND.
+2021-11-11 20:43:15 Info: ****************************************************************************************************
+2021-11-11 20:43:15 Info: Script Execution Logs End 
+
+
+2021-11-11 20:45:11 Info: Script Execution Logs Start
+
+2021-11-11 20:45:11 Info: ****************************************************************************************************
+2021-11-11 20:45:11 Info: Validating module dependencies for the script...
+2021-11-11 20:45:11 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 20:45:11 Info: ---------------------------------------------------------------------------
+
+2021-11-11 20:45:11 Info: Connecting to Azure AD ...
+2021-11-11 20:45:12 Info: Connection successful.
+2021-11-11 20:45:12 Info: ---------------------------------------------------------------------------
+2021-11-11 20:45:12 Info: Reading data from Users Monitoring output CSV file
+2021-11-11 20:45:12 Info: Reading Domain and Company info from CSV file
+2021-11-11 20:45:12 Info: =======================================================================================
+2021-11-11 20:45:12 Info: Determining the domain type from the group company name
+2021-11-11 20:45:12 Info: Domain Type - ADFS
+2021-11-11 20:45:12 Info: Checking if the user exists in ADFS or not
+2021-11-11 20:45:12 Info: User with DarwinBox unique user Id set to 11-Nov-21 already exists
+2021-11-11 20:45:12 Info: Error while updating DarwinBox employee with unique user Id - 11-Nov-21 
+ Error Message : 
+{"status":0,"message":"Employee Not Found"}
+2021-11-11 20:45:12 Info: Email Update operation failed for the ADFS user with unique ID 11-Nov-21 with the ERROR message - 2021-11-11 20:45:12 Info: Error while updating DarwinBox employee with unique user Id - 11-Nov-21 
+ Error Message : 
+{"status":0,"message":"Employee Not Found"}
+2021-11-11 20:45:12 Info: =======================================================================================
+2021-11-11 20:45:12 Info: Exporting the results to CSV files
+2021-11-11 20:45:12 Info: Export successful
+2021-11-11 20:45:12 Info: ****************************************************************************************************
+2021-11-11 20:45:12 Info: Script Execution Logs End 
+
+
+2021-11-11 21:14:40 Info: Script Execution Logs Start
+
+2021-11-11 21:14:40 Info: ****************************************************************************************************
+2021-11-11 21:14:40 Info: Validating module dependencies for the script...
+2021-11-11 21:14:40 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 21:14:40 Info: ---------------------------------------------------------------------------
+
+2021-11-11 21:14:40 Info: Connecting to Azure AD ...
+2021-11-11 21:14:40 Info: Connection successful.
+2021-11-11 21:14:40 Info: ---------------------------------------------------------------------------
+2021-11-11 21:14:40 Info: Reading data from Users Monitoring output CSV file
+2021-11-11 21:14:40 Info: Reading Domain and Company info from CSV file
+2021-11-11 21:14:40 Info: =======================================================================================
+2021-11-11 21:14:40 Info: Determining the domain type from the group company name
+2021-11-11 21:14:40 Info: Domain Type - ADFS
+2021-11-11 21:14:40 Info: Checking if the user exists in ADFS or not
+2021-11-11 21:14:40 Info: User with DarwinBox unique user Id set to 141316 already exists
+2021-11-11 21:14:41 Info: Mail address has been updated in DarwinBox for the user with unique ID 141316
+2021-11-11 21:14:41 Info: =======================================================================================
+2021-11-11 21:14:41 Info: Exporting the results to CSV files
+2021-11-11 21:14:41 Info: Export successful
+2021-11-11 21:14:41 Info: ****************************************************************************************************
+2021-11-11 21:14:41 Info: Script Execution Logs End 
+
+
+2021-11-11 21:17:11 Info: Script Execution Logs Start
+
+2021-11-11 21:17:11 Info: ****************************************************************************************************
+2021-11-11 21:17:11 Info: Validating module dependencies for the script...
+2021-11-11 21:17:12 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 21:17:12 Info: ---------------------------------------------------------------------------
+
+2021-11-11 21:17:12 Info: Connecting to Azure AD ...
+2021-11-11 21:17:14 Info: Connection successful.
+2021-11-11 21:17:14 Info: ---------------------------------------------------------------------------
+2021-11-11 21:17:14 Error: Users Monitoring Output CSV file NOT FOUND.
+2021-11-11 21:17:14 Info: ****************************************************************************************************
+2021-11-11 21:17:14 Info: Script Execution Logs End 
+
+
+2021-11-11 21:25:43 Info: Script Execution Logs Start
+
+2021-11-11 21:25:43 Info: ****************************************************************************************************
+2021-11-11 21:25:43 Info: Validating module dependencies for the script...
+2021-11-11 21:25:43 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 21:25:43 Info: ---------------------------------------------------------------------------
+
+2021-11-11 21:25:43 Info: Connecting to Azure AD ...
+2021-11-11 21:25:43 Info: Connection successful.
+2021-11-11 21:25:43 Info: ---------------------------------------------------------------------------
+2021-11-11 21:25:43 Error: Users Monitoring Output CSV file NOT FOUND.
+2021-11-11 21:25:43 Info: ****************************************************************************************************
+2021-11-11 21:25:43 Info: Script Execution Logs End 
+
+
+2021-11-11 21:28:29 Info: Script Execution Logs Start
+
+2021-11-11 21:28:29 Info: ****************************************************************************************************
+2021-11-11 21:28:29 Info: Validating module dependencies for the script...
+2021-11-11 21:28:29 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 21:28:29 Info: ---------------------------------------------------------------------------
+
+2021-11-11 21:28:29 Info: Connecting to Azure AD ...
+2021-11-11 21:28:29 Info: Connection successful.
+2021-11-11 21:28:29 Info: ---------------------------------------------------------------------------
+2021-11-11 21:28:29 Error: Users Monitoring Output CSV file NOT FOUND.
+2021-11-11 21:28:29 Info: ****************************************************************************************************
+2021-11-11 21:28:29 Info: Script Execution Logs End 
+
+
+2021-11-11 21:29:16 Info: Script Execution Logs Start
+
+2021-11-11 21:29:16 Info: ****************************************************************************************************
+2021-11-11 21:29:16 Info: Validating module dependencies for the script...
+2021-11-11 21:29:16 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 21:29:16 Info: ---------------------------------------------------------------------------
+
+2021-11-11 21:29:16 Info: Connecting to Azure AD ...
+2021-11-11 21:29:16 Info: Connection successful.
+2021-11-11 21:29:16 Info: ---------------------------------------------------------------------------
+2021-11-11 21:29:16 Error: Users Monitoring Output CSV file NOT FOUND.
+2021-11-11 21:29:16 Info: ****************************************************************************************************
+2021-11-11 21:29:16 Info: Script Execution Logs End 
+
+

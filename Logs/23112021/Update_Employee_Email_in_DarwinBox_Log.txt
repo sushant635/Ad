@@ -1,0 +1,400 @@
+2021-11-23 13:56:14 Info: Script Execution Logs Start
+
+2021-11-23 13:56:14 Info: ****************************************************************************************************
+2021-11-23 13:56:14 Info: Validating module dependencies for the script...
+2021-11-23 13:56:14 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 13:56:14 Info: ---------------------------------------------------------------------------
+
+2021-11-23 13:56:14 Info: Connecting to Azure AD ...
+2021-11-23 13:56:14 Info: Connection successful.
+2021-11-23 13:56:14 Info: ---------------------------------------------------------------------------
+2021-11-23 13:56:14 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 13:56:14 Info: Reading Domain and Company info from CSV file
+2021-11-23 13:56:14 Info: =======================================================================================
+2021-11-23 13:56:15 Info: Determining the domain type from the group company name
+2021-11-23 13:56:15 Info: Domain Type - ADFS
+2021-11-23 13:56:15 Info: Checking if the user exists in ADFS or not
+2021-11-23 13:56:15 Info: User with DarwinBox unique user Id set to 142184 already exists
+2021-11-23 13:56:15 Info: Mail address has been updated in DarwinBox for the user with unique ID 142184
+2021-11-23 13:56:15 Info: =======================================================================================
+2021-11-23 13:56:15 Info: Exporting the results to CSV files
+2021-11-23 13:56:15 Info: Export successful
+2021-11-23 13:56:15 Info: ****************************************************************************************************
+2021-11-23 13:56:15 Info: Script Execution Logs End 
+
+
+2021-11-23 15:16:55 Info: Script Execution Logs Start
+
+2021-11-23 15:16:55 Info: ****************************************************************************************************
+2021-11-23 15:16:55 Info: Validating module dependencies for the script...
+2021-11-23 15:16:55 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 15:16:55 Info: ---------------------------------------------------------------------------
+
+2021-11-23 15:16:55 Info: Connecting to Azure AD ...
+2021-11-23 15:16:55 Info: Connection successful.
+2021-11-23 15:16:55 Info: ---------------------------------------------------------------------------
+2021-11-23 15:16:55 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 15:16:55 Info: Reading Domain and Company info from CSV file
+2021-11-23 15:16:55 Info: =======================================================================================
+2021-11-23 15:16:55 Info: Determining the domain type from the group company name
+2021-11-23 15:16:55 Info: Domain Type - ADFS
+2021-11-23 15:16:55 Info: Checking if the user exists in ADFS or not
+2021-11-23 15:16:55 Info: User with DarwinBox unique user Id set to 142106 already exists
+2021-11-23 15:16:56 Info: Mail address has been updated in DarwinBox for the user with unique ID 142106
+2021-11-23 15:16:56 Info: =======================================================================================
+2021-11-23 15:16:56 Info: Exporting the results to CSV files
+2021-11-23 15:16:56 Info: Export successful
+2021-11-23 15:16:56 Info: ****************************************************************************************************
+2021-11-23 15:16:56 Info: Script Execution Logs End 
+
+
+2021-11-23 15:17:35 Info: Script Execution Logs Start
+
+2021-11-23 15:17:35 Info: ****************************************************************************************************
+2021-11-23 15:17:35 Info: Validating module dependencies for the script...
+2021-11-23 15:17:36 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 15:17:36 Info: ---------------------------------------------------------------------------
+
+2021-11-23 15:17:36 Info: Connecting to Azure AD ...
+2021-11-23 15:17:36 Info: Connection successful.
+2021-11-23 15:17:36 Info: ---------------------------------------------------------------------------
+2021-11-23 15:17:36 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 15:17:36 Info: Reading Domain and Company info from CSV file
+2021-11-23 15:17:36 Info: =======================================================================================
+2021-11-23 15:17:36 Info: Determining the domain type from the group company name
+2021-11-23 15:17:36 Info: Domain Type - ADFS
+2021-11-23 15:17:36 Info: Checking if the user exists in ADFS or not
+2021-11-23 15:17:36 Info: User with DarwinBox unique user Id set to 142106 already exists
+2021-11-23 15:17:36 Info: Mail address has been updated in DarwinBox for the user with unique ID 142106
+2021-11-23 15:17:36 Info: =======================================================================================
+2021-11-23 15:17:36 Info: Exporting the results to CSV files
+2021-11-23 15:17:36 Info: Export successful
+2021-11-23 15:17:36 Info: ****************************************************************************************************
+2021-11-23 15:17:36 Info: Script Execution Logs End 
+
+
+2021-11-23 18:07:47 Info: Script Execution Logs Start
+
+2021-11-23 18:07:47 Info: ****************************************************************************************************
+2021-11-23 18:07:47 Info: Validating module dependencies for the script...
+2021-11-23 18:07:48 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:07:48 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:07:48 Info: Connecting to Azure AD ...
+2021-11-23 18:07:48 Info: Connection successful.
+2021-11-23 18:07:48 Info: ---------------------------------------------------------------------------
+2021-11-23 18:07:48 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:07:48 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:07:48 Info: =======================================================================================
+2021-11-23 18:07:48 Info: Determining the domain type from the group company name
+2021-11-23 18:07:48 Info: Domain Type - ADFS
+2021-11-23 18:07:48 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:07:48 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:07:48 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:07:48 Info: =======================================================================================
+2021-11-23 18:07:48 Info: Exporting the results to CSV files
+2021-11-23 18:07:48 Info: Export successful
+2021-11-23 18:07:48 Info: ****************************************************************************************************
+2021-11-23 18:07:48 Info: Script Execution Logs End 
+
+
+2021-11-23 18:14:40 Info: Script Execution Logs Start
+
+2021-11-23 18:14:40 Info: ****************************************************************************************************
+2021-11-23 18:14:40 Info: Validating module dependencies for the script...
+2021-11-23 18:14:41 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:14:41 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:14:41 Info: Connecting to Azure AD ...
+2021-11-23 18:14:41 Info: Connection successful.
+2021-11-23 18:14:41 Info: ---------------------------------------------------------------------------
+2021-11-23 18:14:41 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:14:41 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:14:41 Info: =======================================================================================
+2021-11-23 18:14:41 Info: Determining the domain type from the group company name
+2021-11-23 18:14:41 Info: Domain Type - ADFS
+2021-11-23 18:14:41 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:14:41 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:14:42 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:14:42 Info: =======================================================================================
+2021-11-23 18:14:42 Info: Exporting the results to CSV files
+2021-11-23 18:14:42 Info: Export successful
+2021-11-23 18:14:42 Info: ****************************************************************************************************
+2021-11-23 18:14:42 Info: Script Execution Logs End 
+
+
+2021-11-23 18:40:08 Info: Script Execution Logs Start
+
+2021-11-23 18:40:08 Info: ****************************************************************************************************
+2021-11-23 18:40:08 Info: Validating module dependencies for the script...
+2021-11-23 18:40:08 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:40:08 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:40:08 Info: Connecting to Azure AD ...
+2021-11-23 18:40:08 Info: Connection successful.
+2021-11-23 18:40:08 Info: ---------------------------------------------------------------------------
+2021-11-23 18:40:08 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:40:08 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:40:08 Info: =======================================================================================
+2021-11-23 18:40:08 Info: Determining the domain type from the group company name
+2021-11-23 18:40:08 Info: Domain Type - ADFS
+2021-11-23 18:40:08 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:40:08 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:40:10 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:40:10 Info: =======================================================================================
+2021-11-23 18:40:10 Info: Exporting the results to CSV files
+2021-11-23 18:40:10 Info: Export successful
+2021-11-23 18:40:10 Info: ****************************************************************************************************
+2021-11-23 18:40:10 Info: Script Execution Logs End 
+
+
+2021-11-23 18:44:17 Info: Script Execution Logs Start
+
+2021-11-23 18:44:17 Info: ****************************************************************************************************
+2021-11-23 18:44:17 Info: Validating module dependencies for the script...
+2021-11-23 18:44:17 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:44:17 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:44:17 Info: Connecting to Azure AD ...
+2021-11-23 18:44:17 Info: Connection successful.
+2021-11-23 18:44:17 Info: ---------------------------------------------------------------------------
+2021-11-23 18:44:17 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:44:17 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:44:17 Info: =======================================================================================
+2021-11-23 18:44:17 Info: Determining the domain type from the group company name
+2021-11-23 18:44:17 Info: Domain Type - ADFS
+2021-11-23 18:44:17 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:44:17 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:44:17 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:44:17 Info: =======================================================================================
+2021-11-23 18:44:17 Info: Exporting the results to CSV files
+2021-11-23 18:44:17 Info: Export successful
+2021-11-23 18:44:17 Info: ****************************************************************************************************
+2021-11-23 18:44:17 Info: Script Execution Logs End 
+
+
+2021-11-23 18:50:30 Info: Script Execution Logs Start
+
+2021-11-23 18:50:30 Info: ****************************************************************************************************
+2021-11-23 18:50:30 Info: Validating module dependencies for the script...
+2021-11-23 18:50:31 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:50:31 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:50:31 Info: Connecting to Azure AD ...
+2021-11-23 18:50:31 Info: Connection successful.
+2021-11-23 18:50:31 Info: ---------------------------------------------------------------------------
+2021-11-23 18:50:31 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:50:31 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:50:31 Info: =======================================================================================
+2021-11-23 18:50:31 Info: Determining the domain type from the group company name
+2021-11-23 18:50:31 Info: Domain Type - ADFS
+2021-11-23 18:50:31 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:50:31 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:50:31 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:50:31 Info: =======================================================================================
+2021-11-23 18:50:31 Info: Exporting the results to CSV files
+2021-11-23 18:50:31 Info: Export successful
+2021-11-23 18:50:31 Info: ****************************************************************************************************
+2021-11-23 18:50:31 Info: Script Execution Logs End 
+
+
+2021-11-23 18:50:47 Info: Script Execution Logs Start
+
+2021-11-23 18:50:47 Info: ****************************************************************************************************
+2021-11-23 18:50:47 Info: Validating module dependencies for the script...
+2021-11-23 18:50:47 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:50:47 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:50:47 Info: Connecting to Azure AD ...
+2021-11-23 18:50:47 Info: Connection successful.
+2021-11-23 18:50:47 Info: ---------------------------------------------------------------------------
+2021-11-23 18:50:47 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:50:47 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:50:47 Info: =======================================================================================
+2021-11-23 18:50:47 Info: Determining the domain type from the group company name
+2021-11-23 18:50:47 Info: Domain Type - ADFS
+2021-11-23 18:50:47 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:50:47 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:50:47 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:50:47 Info: =======================================================================================
+2021-11-23 18:50:47 Info: Exporting the results to CSV files
+2021-11-23 18:50:47 Info: Export successful
+2021-11-23 18:50:47 Info: ****************************************************************************************************
+2021-11-23 18:50:47 Info: Script Execution Logs End 
+
+
+2021-11-23 18:51:17 Info: Script Execution Logs Start
+
+2021-11-23 18:51:17 Info: ****************************************************************************************************
+2021-11-23 18:51:17 Info: Validating module dependencies for the script...
+2021-11-23 18:51:17 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:51:17 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:51:18 Info: Connecting to Azure AD ...
+2021-11-23 18:51:18 Info: Connection successful.
+2021-11-23 18:51:18 Info: ---------------------------------------------------------------------------
+2021-11-23 18:51:18 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:51:18 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:51:18 Info: =======================================================================================
+2021-11-23 18:51:18 Info: Determining the domain type from the group company name
+2021-11-23 18:51:18 Info: Domain Type - ADFS
+2021-11-23 18:51:18 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:51:18 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:51:18 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:51:18 Info: =======================================================================================
+2021-11-23 18:51:18 Info: Exporting the results to CSV files
+2021-11-23 18:51:18 Info: Export successful
+2021-11-23 18:51:18 Info: ****************************************************************************************************
+2021-11-23 18:51:18 Info: Script Execution Logs End 
+
+
+2021-11-23 18:52:16 Info: Script Execution Logs Start
+
+2021-11-23 18:52:16 Info: ****************************************************************************************************
+2021-11-23 18:52:16 Info: Validating module dependencies for the script...
+2021-11-23 18:52:17 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:52:17 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:52:17 Info: Connecting to Azure AD ...
+2021-11-23 18:52:17 Info: Connection successful.
+2021-11-23 18:52:17 Info: ---------------------------------------------------------------------------
+2021-11-23 18:52:17 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:52:17 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:52:17 Info: =======================================================================================
+2021-11-23 18:52:17 Info: Determining the domain type from the group company name
+2021-11-23 18:52:17 Info: Domain Type - ADFS
+2021-11-23 18:52:17 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:52:17 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:52:17 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:52:17 Info: =======================================================================================
+2021-11-23 18:52:17 Info: Exporting the results to CSV files
+2021-11-23 18:52:17 Info: Export successful
+2021-11-23 18:52:17 Info: ****************************************************************************************************
+2021-11-23 18:52:17 Info: Script Execution Logs End 
+
+
+2021-11-23 18:52:32 Info: Script Execution Logs Start
+
+2021-11-23 18:52:32 Info: ****************************************************************************************************
+2021-11-23 18:52:32 Info: Validating module dependencies for the script...
+2021-11-23 18:52:32 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:52:32 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:52:32 Info: Connecting to Azure AD ...
+2021-11-23 18:52:32 Info: Connection successful.
+2021-11-23 18:52:32 Info: ---------------------------------------------------------------------------
+2021-11-23 18:52:32 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:52:32 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:52:32 Info: =======================================================================================
+2021-11-23 18:52:32 Info: Determining the domain type from the group company name
+2021-11-23 18:52:32 Info: Domain Type - ADFS
+2021-11-23 18:52:32 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:52:33 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:52:33 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:52:33 Info: =======================================================================================
+2021-11-23 18:52:33 Info: Exporting the results to CSV files
+2021-11-23 18:52:33 Info: Export successful
+2021-11-23 18:52:33 Info: ****************************************************************************************************
+2021-11-23 18:52:33 Info: Script Execution Logs End 
+
+
+2021-11-23 18:58:12 Info: Script Execution Logs Start
+
+2021-11-23 18:58:12 Info: ****************************************************************************************************
+2021-11-23 18:58:12 Info: Validating module dependencies for the script...
+2021-11-23 18:58:13 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:58:13 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:58:13 Info: Connecting to Azure AD ...
+2021-11-23 18:58:13 Info: Connection successful.
+2021-11-23 18:58:13 Info: ---------------------------------------------------------------------------
+2021-11-23 18:58:13 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:58:13 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:58:13 Info: =======================================================================================
+2021-11-23 18:58:13 Info: Determining the domain type from the group company name
+2021-11-23 18:58:13 Info: Domain Type - ADFS
+2021-11-23 18:58:13 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:58:13 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:58:13 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:58:13 Info: =======================================================================================
+2021-11-23 18:58:13 Info: Exporting the results to CSV files
+2021-11-23 18:58:13 Info: Export successful
+2021-11-23 18:58:13 Info: ****************************************************************************************************
+2021-11-23 18:58:13 Info: Script Execution Logs End 
+
+
+2021-11-23 18:58:53 Info: Script Execution Logs Start
+
+2021-11-23 18:58:53 Info: ****************************************************************************************************
+2021-11-23 18:58:53 Info: Validating module dependencies for the script...
+2021-11-23 18:58:53 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 18:58:53 Info: ---------------------------------------------------------------------------
+
+2021-11-23 18:58:53 Info: Connecting to Azure AD ...
+2021-11-23 18:58:53 Info: Connection successful.
+2021-11-23 18:58:53 Info: ---------------------------------------------------------------------------
+2021-11-23 18:58:53 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 18:58:53 Info: Reading Domain and Company info from CSV file
+2021-11-23 18:58:53 Info: =======================================================================================
+2021-11-23 18:58:53 Info: Determining the domain type from the group company name
+2021-11-23 18:58:53 Info: Domain Type - ADFS
+2021-11-23 18:58:53 Info: Checking if the user exists in ADFS or not
+2021-11-23 18:58:53 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 18:58:53 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 18:58:53 Info: =======================================================================================
+2021-11-23 18:58:53 Info: Exporting the results to CSV files
+2021-11-23 18:58:53 Info: Export successful
+2021-11-23 18:58:53 Info: ****************************************************************************************************
+2021-11-23 18:58:53 Info: Script Execution Logs End 
+
+
+2021-11-23 19:00:21 Info: Script Execution Logs Start
+
+2021-11-23 19:00:21 Info: ****************************************************************************************************
+2021-11-23 19:00:21 Info: Validating module dependencies for the script...
+2021-11-23 19:00:22 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 19:00:22 Info: ---------------------------------------------------------------------------
+
+2021-11-23 19:00:22 Info: Connecting to Azure AD ...
+2021-11-23 19:00:22 Info: Connection successful.
+2021-11-23 19:00:22 Info: ---------------------------------------------------------------------------
+2021-11-23 19:00:22 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 19:00:22 Info: Reading Domain and Company info from CSV file
+2021-11-23 19:00:22 Info: =======================================================================================
+2021-11-23 19:00:22 Info: Determining the domain type from the group company name
+2021-11-23 19:00:22 Info: Domain Type - ADFS
+2021-11-23 19:00:22 Info: Checking if the user exists in ADFS or not
+2021-11-23 19:00:22 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 19:00:22 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 19:00:22 Info: =======================================================================================
+2021-11-23 19:00:22 Info: Exporting the results to CSV files
+2021-11-23 19:00:22 Info: Export successful
+2021-11-23 19:00:22 Info: ****************************************************************************************************
+2021-11-23 19:00:22 Info: Script Execution Logs End 
+
+
+2021-11-23 19:00:50 Info: Script Execution Logs Start
+
+2021-11-23 19:00:50 Info: ****************************************************************************************************
+2021-11-23 19:00:50 Info: Validating module dependencies for the script...
+2021-11-23 19:00:50 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-23 19:00:50 Info: ---------------------------------------------------------------------------
+
+2021-11-23 19:00:50 Info: Connecting to Azure AD ...
+2021-11-23 19:00:50 Info: Connection successful.
+2021-11-23 19:00:50 Info: ---------------------------------------------------------------------------
+2021-11-23 19:00:50 Info: Reading data from Users Monitoring output CSV file
+2021-11-23 19:00:50 Info: Reading Domain and Company info from CSV file
+2021-11-23 19:00:50 Info: =======================================================================================
+2021-11-23 19:00:50 Info: Determining the domain type from the group company name
+2021-11-23 19:00:50 Info: Domain Type - ADFS
+2021-11-23 19:00:50 Info: Checking if the user exists in ADFS or not
+2021-11-23 19:00:50 Info: User with DarwinBox unique user Id set to 142105 already exists
+2021-11-23 19:00:50 Info: Email Update operation failed for the ADFS user with unique ID 142105 with the ERROR message - @{status=0; message=Email ID already exists}
+2021-11-23 19:00:50 Info: =======================================================================================
+2021-11-23 19:00:50 Info: Exporting the results to CSV files
+2021-11-23 19:00:50 Info: Export successful
+2021-11-23 19:00:50 Info: ****************************************************************************************************
+2021-11-23 19:00:50 Info: Script Execution Logs End 
+
+

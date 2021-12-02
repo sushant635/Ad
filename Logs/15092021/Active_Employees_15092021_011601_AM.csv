@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,group_company,designation_name,department_name,Office Area,employee_type,location_type,Direct manager employee ID,direct_manager_name,business_unit,date_of_joining,office_location_cost_center,user_unique_id
+30000063,Luna,Maya Tarigantung,PT Mitra Adiperkasa Tbk,Manager,Human Capital Information System,Human Capital Corporate,Probation,Head Office,,,Corporate,06-Sep-21,Supporting Centre - Human Resources (CCHR0000),111527
+30000066,Maxmarra,Susisimilikiti,PT Map Aktif Adiperkasa,Associate,Human Capital Services,Human Capital Active,Probation,Head Office,1410755,Aldes Yayandri,Active,02-Sep-21,Supporting Centre - Human Resources (NSCHRMAA0),111528
+202123273,Rizkiyah,Amalia,PT Panen Lestari Indonesia,Associate,Cashier,Kota Kasablanka Sogo - Cashier,Contract,Store,199500693,Winarni ,Department Store,01-Jul-21,FINANCE & ACC. - KK (OPLI.FA2900),101365
+202123395,Ahmad ,Fatoni,PT Swalayan Sukses Abadi,Cashier,Cashier,Pondok Indah Mall Foodhall - Finance & Accounting,Contract,Store,,,Foodhall,01-Sep-21,1600.FA0900 (Finance Accounting PIM),109717

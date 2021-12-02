@@ -1,0 +1,135 @@
+2021-11-11 19:45:26 Info: Script Execution Logs Start
+
+2021-11-11 19:45:26 Info: ****************************************************************************************************
+2021-11-11 19:45:26 Info: Validating module dependencies for the script...
+2021-11-11 19:45:29 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 19:45:29 Info: ---------------------------------------------------------------------------
+2021-11-11 19:45:29 Info: Connecting to Azure AD ...
+2021-11-11 19:45:30 Info: Connection successful.
+2021-11-11 19:45:30 Info: ---------------------------------------------------------------------------
+2021-11-11 19:45:30 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-11 19:45:30 Info: Reading Domain and Company info from CSV file
+2021-11-11 19:45:30 Info: =======================================================================================
+2021-11-11 19:45:30 Info: DarwinBox Unique Id for User - 141309
+2021-11-11 19:45:31 Info: Determining the domain type from the group company name
+2021-11-11 19:45:31 Info: Domain Type - ADFS
+2021-11-11 19:45:31 Info: Checking if the user exists in ADFS or not
+2021-11-11 19:45:31 Info: Creating new user with samAccountName as Rachmad.Geraldine
+2021-11-11 19:45:31 Info: User created successfully in ADFS.
+2021-11-11 19:45:31 Info: =======================================================================================
+2021-11-11 19:45:31 Info: Exporting the newly created users to Monitoring CSV file for Email updation purposes
+2021-11-11 19:45:31 Info: Users exported successfully.
+2021-11-11 19:45:31 Info: ****************************************************************************************************
+2021-11-11 19:45:31 Info: Script Execution Logs End 
+
+
+2021-11-11 19:46:04 Info: Script Execution Logs Start
+
+2021-11-11 19:46:04 Info: ****************************************************************************************************
+2021-11-11 19:46:04 Info: Validating module dependencies for the script...
+2021-11-11 19:46:05 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 19:46:05 Info: ---------------------------------------------------------------------------
+2021-11-11 19:46:05 Info: Connecting to Azure AD ...
+2021-11-11 19:46:06 Info: Connection successful.
+2021-11-11 19:46:06 Info: ---------------------------------------------------------------------------
+2021-11-11 19:46:06 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-11 19:46:06 Info: Reading Domain and Company info from CSV file
+2021-11-11 19:46:06 Info: =======================================================================================
+2021-11-11 19:46:06 Info: DarwinBox Unique Id for User - 141309
+2021-11-11 19:46:06 Info: Determining the domain type from the group company name
+2021-11-11 19:46:06 Info: Domain Type - ADFS
+2021-11-11 19:46:06 Info: Checking if the user exists in ADFS or not
+2021-11-11 19:46:06 Info: User with DarwinBox unique user Id set to 141309 already exists
+2021-11-11 19:46:06 Info: Updating details for the existing user with unique ID 141309
+2021-11-11 19:46:06 Info: User details updated successfully
+2021-11-11 19:46:06 Info: =======================================================================================
+2021-11-11 19:46:06 Info: Exporting the newly created users to Monitoring CSV file for Email updation purposes
+2021-11-11 19:46:07 Info: Users exported successfully.
+2021-11-11 19:46:07 Info: ****************************************************************************************************
+2021-11-11 19:46:07 Info: Script Execution Logs End 
+
+
+2021-11-11 20:31:43 Info: Script Execution Logs Start
+
+2021-11-11 20:31:43 Info: ****************************************************************************************************
+2021-11-11 20:31:43 Info: Validating module dependencies for the script...
+2021-11-11 20:31:44 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 20:31:44 Info: ---------------------------------------------------------------------------
+2021-11-11 20:31:44 Info: Connecting to Azure AD ...
+2021-11-11 20:31:45 Info: Connection successful.
+2021-11-11 20:31:45 Info: ---------------------------------------------------------------------------
+2021-11-11 20:31:45 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-11 20:31:45 Info: Reading Domain and Company info from CSV file
+2021-11-11 20:31:45 Info: =======================================================================================
+2021-11-11 20:31:45 Info: DarwinBox Unique Id for User - 11-Nov-21
+2021-11-11 20:31:45 Info: Determining the domain type from the group company name
+2021-11-11 20:31:45 Info: Domain Type - ADFS
+2021-11-11 20:31:45 Info: Checking if the user exists in ADFS or not
+2021-11-11 20:31:45 Info: Creating new user with samAccountName as 1503371.Rachmad
+2021-11-11 20:45:09 Info: Script Execution Logs Start
+
+2021-11-11 20:45:09 Info: ****************************************************************************************************
+2021-11-11 20:45:09 Info: Validating module dependencies for the script...
+2021-11-11 20:45:09 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 20:45:09 Info: ---------------------------------------------------------------------------
+2021-11-11 20:45:09 Info: Connecting to Azure AD ...
+2021-11-11 20:45:11 Info: Connection successful.
+2021-11-11 20:45:11 Info: ---------------------------------------------------------------------------
+2021-11-11 20:45:11 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-11 20:45:11 Info: Reading Domain and Company info from CSV file
+2021-11-11 20:45:11 Info: =======================================================================================
+2021-11-11 20:45:11 Info: DarwinBox Unique Id for User - 11-Nov-21
+2021-11-11 20:45:11 Info: Determining the domain type from the group company name
+2021-11-11 20:45:11 Info: Domain Type - ADFS
+2021-11-11 20:45:11 Info: Checking if the user exists in ADFS or not
+2021-11-11 20:45:11 Info: Creating new user with samAccountName as 1503371.Raheem
+2021-11-11 20:45:11 Info: User created successfully in ADFS.
+2021-11-11 20:45:11 Info: =======================================================================================
+2021-11-11 20:45:11 Info: Exporting the newly created users to Monitoring CSV file for Email updation purposes
+2021-11-11 20:45:11 Info: Users exported successfully.
+2021-11-11 20:45:11 Info: ****************************************************************************************************
+2021-11-11 20:45:11 Info: Script Execution Logs End 
+
+
+2021-11-11 20:53:24 Info: Script Execution Logs Start
+
+2021-11-11 20:53:24 Info: ****************************************************************************************************
+2021-11-11 20:53:24 Info: Validating module dependencies for the script...
+2021-11-11 20:53:24 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 20:53:24 Info: ---------------------------------------------------------------------------
+2021-11-11 20:53:24 Info: Connecting to Azure AD ...
+2021-11-11 20:53:26 Info: Connection successful.
+2021-11-11 20:53:26 Info: ---------------------------------------------------------------------------
+2021-11-11 20:53:26 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-11 20:53:26 Info: Reading Domain and Company info from CSV file
+2021-11-11 20:53:26 Info: =======================================================================================
+2021-11-11 20:53:26 Info: DarwinBox Unique Id for User - 141316
+2021-11-11 20:53:26 Info: Determining the domain type from the group company name
+2021-11-11 20:53:26 Info: Domain Type - ADFS
+2021-11-11 20:53:26 Info: Checking if the user exists in ADFS or not
+2021-11-11 20:53:26 Info: Creating new user with samAccountName as Raheem.Sterling
+2021-11-11 21:14:37 Info: Script Execution Logs Start
+
+2021-11-11 21:14:37 Info: ****************************************************************************************************
+2021-11-11 21:14:37 Info: Validating module dependencies for the script...
+2021-11-11 21:14:38 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-11 21:14:38 Info: ---------------------------------------------------------------------------
+2021-11-11 21:14:38 Info: Connecting to Azure AD ...
+2021-11-11 21:14:39 Info: Connection successful.
+2021-11-11 21:14:39 Info: ---------------------------------------------------------------------------
+2021-11-11 21:14:39 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-11 21:14:39 Info: Reading Domain and Company info from CSV file
+2021-11-11 21:14:39 Info: =======================================================================================
+2021-11-11 21:14:39 Info: DarwinBox Unique Id for User - 141316
+2021-11-11 21:14:39 Info: Determining the domain type from the group company name
+2021-11-11 21:14:39 Info: Domain Type - ADFS
+2021-11-11 21:14:39 Info: Checking if the user exists in ADFS or not
+2021-11-11 21:14:39 Info: Creating new user with samAccountName as Raheem.Sterling
+2021-11-11 21:14:40 Info: User created successfully in ADFS.
+2021-11-11 21:14:40 Info: =======================================================================================
+2021-11-11 21:14:40 Info: Exporting the newly created users to Monitoring CSV file for Email updation purposes
+2021-11-11 21:14:40 Info: Users exported successfully.
+2021-11-11 21:14:40 Info: ****************************************************************************************************
+2021-11-11 21:14:40 Info: Script Execution Logs End 
+
+

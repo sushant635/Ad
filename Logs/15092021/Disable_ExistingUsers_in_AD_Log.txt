@@ -1,0 +1,41 @@
+2021-09-15 02:52:56 Info: Script Execution Logs Start
+
+2021-09-15 02:52:56 Info: ****************************************************************************************************
+2021-09-15 02:52:56 Info: Validating module dependencies for the script...
+2021-09-15 02:52:56 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-15 02:52:56 Info: ---------------------------------------------------------------------------
+2021-09-15 02:52:56 Info: Connecting to Azure AD ...
+2021-09-15 02:52:56 Info: Connection successful.
+2021-09-15 02:52:56 Info: ---------------------------------------------------------------------------
+2021-09-15 02:52:56 Info: Reading Inactive DarwinBox employees info from output CSV file
+2021-09-15 02:52:56 Info: Reading Domain and Company info from CSV file
+2021-09-15 02:52:56 Info: =======================================================================================
+2021-09-15 02:52:56 Info: DarwinBox Unique Id for User - 75418
+2021-09-15 02:52:56 Info: Determining the domain type from the group company name
+2021-09-15 02:52:56 Info: Domain Type - ADFS
+2021-09-15 02:52:56 Info: Checking if the user exists in ADFS or not
+2021-09-15 02:52:56 Info: Founded user with DarwinBox unique user Id set to 75418
+2021-09-15 02:56:25 Info: Script Execution Logs Start
+
+2021-09-15 02:56:25 Info: ****************************************************************************************************
+2021-09-15 02:56:25 Info: Validating module dependencies for the script...
+2021-09-15 02:56:25 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-15 02:56:25 Info: ---------------------------------------------------------------------------
+2021-09-15 02:56:25 Info: Connecting to Azure AD ...
+2021-09-15 02:56:25 Info: Connection successful.
+2021-09-15 02:56:25 Info: ---------------------------------------------------------------------------
+2021-09-15 02:56:25 Info: Reading Inactive DarwinBox employees info from output CSV file
+2021-09-15 02:56:25 Info: Reading Domain and Company info from CSV file
+2021-09-15 02:56:25 Info: =======================================================================================
+2021-09-15 02:56:25 Info: DarwinBox Unique Id for User - 75418
+2021-09-15 02:56:25 Info: Determining the domain type from the group company name
+2021-09-15 02:56:25 Info: Domain Type - ADFS
+2021-09-15 02:56:26 Info: Checking if the user exists in ADFS or not
+2021-09-15 02:56:26 Info: Founded user with DarwinBox unique user Id set to 75418
+2021-09-15 02:56:26 Info: Disabling account for the existing user with DarwinBox unique user Id set to 75418
+2021-09-15 02:56:26 Info: Account DISABLED successfully.
+2021-09-15 02:56:26 Info: =======================================================================================
+2021-09-15 02:56:26 Info: ****************************************************************************************************
+2021-09-15 02:56:26 Info: Script Execution Logs End 
+
+

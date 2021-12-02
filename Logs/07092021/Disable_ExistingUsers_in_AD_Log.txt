@@ -1,0 +1,92 @@
+2021-09-07 14:38:58 Info: Script Execution Logs Start
+
+2021-09-07 14:38:58 Info: ****************************************************************************************************
+2021-09-07 14:38:58 Info: Validating module dependencies for the script...
+2021-09-07 14:38:58 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-07 14:38:58 Info: ---------------------------------------------------------------------------
+2021-09-07 14:38:58 Info: Connecting to Azure AD ...
+2021-09-07 14:38:58 Info: Connection successful.
+2021-09-07 14:38:58 Info: ---------------------------------------------------------------------------
+2021-09-07 14:38:58 Info: Reading Inactive DarwinBox employees info from output CSV file
+2021-09-07 14:38:58 Info: Reading Domain and Company info from CSV file
+2021-09-07 14:38:58 Info: =======================================================================================
+2021-09-07 14:38:58 Info: DarwinBox Unique Id for User - 75418
+2021-09-07 14:38:58 Info: Determining the domain type from the group company name
+2021-09-07 14:38:58 Info: Domain Type - AzureAD
+2021-09-07 14:38:58 Info: Checking if the user exists in Azure AD or not
+2021-09-07 14:39:02 Info: Founded user with DarwinBox unique user Id set to 75418
+2021-09-07 14:39:02 Info: Skipping the disable operation for the existing user with DarwinBox unique user Id set to 75418
+2021-09-07 14:39:02 Info: =======================================================================================
+2021-09-07 14:39:02 Info: ****************************************************************************************************
+2021-09-07 14:39:02 Info: Script Execution Logs End 
+
+
+2021-09-07 14:47:05 Info: Script Execution Logs Start
+
+2021-09-07 14:47:05 Info: ****************************************************************************************************
+2021-09-07 14:47:05 Info: Validating module dependencies for the script...
+2021-09-07 14:47:05 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-07 14:47:05 Info: ---------------------------------------------------------------------------
+2021-09-07 14:47:05 Info: Connecting to Azure AD ...
+2021-09-07 14:47:05 Info: Connection successful.
+2021-09-07 14:47:05 Info: ---------------------------------------------------------------------------
+2021-09-07 14:47:05 Info: Reading Inactive DarwinBox employees info from output CSV file
+2021-09-07 14:47:05 Info: Reading Domain and Company info from CSV file
+2021-09-07 14:47:05 Info: =======================================================================================
+2021-09-07 14:47:05 Info: DarwinBox Unique Id for User - 75418
+2021-09-07 14:47:05 Info: Determining the domain type from the group company name
+2021-09-07 14:47:05 Info: Domain Type - AzureAD
+2021-09-07 14:47:05 Info: Checking if the user exists in Azure AD or not
+2021-09-07 14:47:10 Info: Founded user with DarwinBox unique user Id set to 75418
+2021-09-07 14:47:10 Info: Skipping the disable operation for the existing user with DarwinBox unique user Id set to 75418
+2021-09-07 14:47:10 Info: =======================================================================================
+2021-09-07 14:47:10 Info: ****************************************************************************************************
+2021-09-07 14:47:10 Info: Script Execution Logs End 
+
+
+2021-09-07 15:02:21 Info: Script Execution Logs Start
+
+2021-09-07 15:02:21 Info: ****************************************************************************************************
+2021-09-07 15:02:21 Info: Validating module dependencies for the script...
+2021-09-07 15:02:21 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-07 15:02:21 Info: ---------------------------------------------------------------------------
+2021-09-07 15:02:21 Info: Connecting to Azure AD ...
+2021-09-07 15:02:21 Info: Connection successful.
+2021-09-07 15:02:21 Info: ---------------------------------------------------------------------------
+2021-09-07 15:02:21 Info: Reading Inactive DarwinBox employees info from output CSV file
+2021-09-07 15:02:21 Info: Reading Domain and Company info from CSV file
+2021-09-07 15:02:21 Info: =======================================================================================
+2021-09-07 15:02:21 Info: DarwinBox Unique Id for User - 75418
+2021-09-07 15:02:21 Info: Determining the domain type from the group company name
+2021-09-07 15:02:21 Info: Domain Type - ADFS
+2021-09-07 15:02:21 Info: Checking if the user exists in ADFS or not
+2021-09-07 15:02:21 Info: Founded user with DarwinBox unique user Id set to 75418
+2021-09-07 15:02:21 Info: Skipping the disable operation for the existing user with DarwinBox unique user Id set to 75418
+2021-09-07 15:02:21 Info: =======================================================================================
+2021-09-07 15:02:21 Info: ****************************************************************************************************
+2021-09-07 15:02:21 Info: Script Execution Logs End 
+
+
+2021-09-07 15:08:28 Info: Script Execution Logs Start
+
+2021-09-07 15:08:28 Info: ****************************************************************************************************
+2021-09-07 15:08:28 Info: Validating module dependencies for the script...
+2021-09-07 15:08:28 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-07 15:08:28 Info: ---------------------------------------------------------------------------
+2021-09-07 15:08:28 Info: Connecting to Azure AD ...
+2021-09-07 15:08:29 Info: Connection successful.
+2021-09-07 15:08:29 Info: ---------------------------------------------------------------------------
+2021-09-07 15:08:29 Info: Reading Inactive DarwinBox employees info from output CSV file
+2021-09-07 15:08:29 Info: Reading Domain and Company info from CSV file
+2021-09-07 15:08:29 Info: =======================================================================================
+2021-09-07 15:08:29 Info: DarwinBox Unique Id for User - 75418
+2021-09-07 15:08:29 Info: Determining the domain type from the group company name
+2021-09-07 15:08:29 Info: Domain Type - ADFS
+2021-09-07 15:08:29 Info: Checking if the user exists in ADFS or not
+2021-09-07 15:08:29 Info: Founded user with DarwinBox unique user Id set to 75418
+2021-09-07 15:08:29 Info: Skipping the disable operation for the existing user with DarwinBox unique user Id set to 75418
+2021-09-07 15:08:29 Info: =======================================================================================
+2021-09-07 15:08:29 Info: ****************************************************************************************************
+2021-09-07 15:08:29 Info: Script Execution Logs End 
+
+

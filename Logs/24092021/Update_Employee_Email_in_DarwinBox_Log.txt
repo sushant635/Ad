@@ -1,0 +1,15 @@
+2021-09-24 09:52:17 Info: Script Execution Logs Start
+
+2021-09-24 09:52:17 Info: ****************************************************************************************************
+2021-09-24 09:52:17 Info: Validating module dependencies for the script...
+2021-09-24 09:52:17 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-09-24 09:52:17 Info: ---------------------------------------------------------------------------
+
+2021-09-24 09:52:17 Info: Connecting to Azure AD ...
+2021-09-24 09:52:18 Info: Connection successful.
+2021-09-24 09:52:18 Info: ---------------------------------------------------------------------------
+2021-09-24 09:52:18 Error: Users Monitoring Output CSV file NOT FOUND.
+2021-09-24 09:52:18 Info: ****************************************************************************************************
+2021-09-24 09:52:18 Info: Script Execution Logs End 
+
+

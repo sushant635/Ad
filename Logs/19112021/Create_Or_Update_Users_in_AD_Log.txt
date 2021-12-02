@@ -1,0 +1,101 @@
+2021-11-19 17:35:04 Info: Script Execution Logs Start
+
+2021-11-19 17:35:04 Info: ****************************************************************************************************
+2021-11-19 17:35:04 Info: Validating module dependencies for the script...
+2021-11-19 17:35:05 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-19 17:35:05 Info: ---------------------------------------------------------------------------
+2021-11-19 17:35:05 Info: Connecting to Azure AD ...
+2021-11-19 17:41:54 Info: Script Execution Logs Start
+
+2021-11-19 17:41:54 Info: ****************************************************************************************************
+2021-11-19 17:41:55 Info: Validating module dependencies for the script...
+2021-11-19 17:41:55 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-19 17:41:55 Info: ---------------------------------------------------------------------------
+2021-11-19 17:41:55 Info: Connecting to Azure AD ...
+2021-11-19 18:31:20 Info: Script Execution Logs Start
+
+2021-11-19 18:31:20 Info: ****************************************************************************************************
+2021-11-19 18:31:20 Info: Validating module dependencies for the script...
+2021-11-19 18:31:20 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-19 18:31:20 Info: ---------------------------------------------------------------------------
+2021-11-19 18:31:20 Info: Connecting to Azure AD ...
+2021-11-19 19:03:05 Info: Script Execution Logs Start
+
+2021-11-19 19:03:05 Info: ****************************************************************************************************
+2021-11-19 19:03:05 Info: Validating module dependencies for the script...
+2021-11-19 19:03:06 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-19 19:03:06 Info: ---------------------------------------------------------------------------
+2021-11-19 19:03:06 Info: Connecting to Azure AD ...
+2021-11-19 19:03:07 Info: Connection successful.
+2021-11-19 19:03:07 Info: ---------------------------------------------------------------------------
+2021-11-19 19:03:07 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-19 19:03:07 Info: Reading Domain and Company info from CSV file
+2021-11-19 19:03:07 Info: =======================================================================================
+2021-11-19 19:03:07 Info: DarwinBox Unique Id for User - 142712
+2021-11-19 19:03:07 Info: Determining the domain type from the group company name
+2021-11-19 19:03:07 Info: Domain Type - ADFS
+2021-11-19 19:03:07 Info: Checking if the user exists in ADFS or not
+2021-11-19 19:03:13 Info: Script Execution Logs Start
+
+2021-11-19 19:03:13 Info: ****************************************************************************************************
+2021-11-19 19:03:13 Info: Validating module dependencies for the script...
+2021-11-19 19:03:13 Info: Script Execution Logs Start
+
+2021-11-19 19:03:13 Info: ****************************************************************************************************
+2021-11-19 19:03:13 Info: Validating module dependencies for the script...
+2021-11-19 19:03:14 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-19 19:03:14 Info: ---------------------------------------------------------------------------
+2021-11-19 19:03:14 Info: Connecting to Azure AD ...
+2021-11-19 19:03:14 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-19 19:03:14 Info: ---------------------------------------------------------------------------
+2021-11-19 19:03:14 Info: Connecting to Azure AD ...
+2021-11-19 19:03:15 Info: Connection successful.
+2021-11-19 19:03:15 Info: ---------------------------------------------------------------------------
+2021-11-19 19:03:16 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-19 19:03:16 Info: Reading Domain and Company info from CSV file
+2021-11-19 19:03:16 Info: =======================================================================================
+2021-11-19 19:03:16 Info: DarwinBox Unique Id for User - 142712
+2021-11-19 19:03:16 Info: Determining the domain type from the group company name
+2021-11-19 19:03:16 Info: Domain Type - ADFS
+2021-11-19 19:03:16 Info: Checking if the user exists in ADFS or not
+2021-11-19 19:03:16 Info: Connection successful.
+2021-11-19 19:03:16 Info: ---------------------------------------------------------------------------
+2021-11-19 19:03:16 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-19 19:03:16 Info: Reading Domain and Company info from CSV file
+2021-11-19 19:03:16 Info: =======================================================================================
+2021-11-19 19:03:16 Info: DarwinBox Unique Id for User - 142712
+2021-11-19 19:03:16 Info: Determining the domain type from the group company name
+2021-11-19 19:03:16 Info: Domain Type - ADFS
+2021-11-19 19:03:16 Info: Checking if the user exists in ADFS or not
+2021-11-19 19:05:42 Info: Script Execution Logs Start
+
+2021-11-19 19:05:42 Info: ****************************************************************************************************
+2021-11-19 19:05:42 Info: Validating module dependencies for the script...
+2021-11-19 19:05:43 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-19 19:05:43 Info: ---------------------------------------------------------------------------
+2021-11-19 19:05:43 Info: Connecting to Azure AD ...
+2021-11-19 19:05:43 Info: Connection successful.
+2021-11-19 19:05:43 Info: ---------------------------------------------------------------------------
+2021-11-19 19:05:43 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-19 19:05:43 Info: Reading Domain and Company info from CSV file
+2021-11-19 19:05:43 Info: =======================================================================================
+2021-11-19 19:05:43 Info: DarwinBox Unique Id for User - 142712
+2021-11-19 19:05:43 Info: Determining the domain type from the group company name
+2021-11-19 19:05:43 Info: Domain Type - ADFS
+2021-11-19 19:05:43 Info: Checking if the user exists in ADFS or not
+2021-11-19 19:20:31 Info: Script Execution Logs Start
+
+2021-11-19 19:20:31 Info: ****************************************************************************************************
+2021-11-19 19:20:31 Info: Validating module dependencies for the script...
+2021-11-19 19:20:32 Info: All dependencies validated successfully. Proceeding with the other steps...
+2021-11-19 19:20:32 Info: ---------------------------------------------------------------------------
+2021-11-19 19:20:32 Info: Connecting to Azure AD ...
+2021-11-19 19:20:33 Info: Connection successful.
+2021-11-19 19:20:33 Info: ---------------------------------------------------------------------------
+2021-11-19 19:20:33 Info: Reading DarwinBox employees info from Active Employees output CSV file
+2021-11-19 19:20:33 Info: Reading Domain and Company info from CSV file
+2021-11-19 19:20:33 Info: =======================================================================================
+2021-11-19 19:20:33 Info: DarwinBox Unique Id for User - 142712
+2021-11-19 19:20:33 Info: Determining the domain type from the group company name
+2021-11-19 19:20:33 Info: Domain Type - ADFS
+2021-11-19 19:20:33 Info: Checking if the user exists in ADFS or not

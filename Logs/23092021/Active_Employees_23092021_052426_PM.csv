@@ -1,0 +1,3 @@
+employee_id,first_name,last_name,group_company,designation_name,department_name,Office Area,employee_type,location_type,Direct manager employee ID,direct_manager_name,business_unit,date_of_joining,office_location_cost_center,user_unique_id,latest_modified_any_attribute
+202123273,Rizkiyah,Amalia,PT Panen Lestari Indonesia,Executive,Ladieswear,Balikpapan Sogo - Customer Service,Contract,Store,201818690,Wiena Amalia,Department Store,1-Jul-21,MARKETING - BLKPPN SB (OPLI.MA4300),101365,23-Sep-21
+202123266,Alfira,Wahyu Dwi Kurniawati,PT Swalayan Sukses Abadi,Executive,Fruit & Vegetable,Lippo Mall Puri Foodhall - General Affair,Permanent,Store,201818690,Wiena Amalia,Foodhall,1-Jul-21,General Aff LMP (1600.GA4800),101506,23-Sep-21
